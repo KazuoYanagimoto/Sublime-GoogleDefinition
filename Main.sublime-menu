@@ -1,0 +1,26 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Google Definition",
+                "mnemonic": "G",
+                "id": "googledefinition",
+                "children":
+                [
+                    {
+                        "caption": "Search Selected",
+                        "command": "google_define_selected"
+                    },
+                    {
+                        "caption": "Search from Input",
+                        "command": "google_define_from_input"
+                    }
+                ]
+            }
+        ]
+    }
+]

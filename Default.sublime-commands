@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Google Definition: Search Selected",
+        "command": "google_define_selected"
+    },
+    {
+        "caption": "Google Definition: Search from Input",
+        "command": "google_define_from_input"
+    }
+]
