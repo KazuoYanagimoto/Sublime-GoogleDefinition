@@ -1,2 +1,2 @@
 # Sublime-GoogleDefinition
-Search for definition by using Google Chrome Definition
+Sublime plugin for searching definition by using Google Chrome Definition.
